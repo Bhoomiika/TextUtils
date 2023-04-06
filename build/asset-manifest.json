@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bhoomiika/TextUtils.git/static/css/main.abd64e84.css",
+    "main.js": "/Bhoomiika/TextUtils.git/static/js/main.bf6221e7.js",
+    "static/js/787.719ec76d.chunk.js": "/Bhoomiika/TextUtils.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Bhoomiika/TextUtils.git/index.html",
+    "main.abd64e84.css.map": "/Bhoomiika/TextUtils.git/static/css/main.abd64e84.css.map",
+    "main.bf6221e7.js.map": "/Bhoomiika/TextUtils.git/static/js/main.bf6221e7.js.map",
+    "787.719ec76d.chunk.js.map": "/Bhoomiika/TextUtils.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.bf6221e7.js"
+  ]
+}
